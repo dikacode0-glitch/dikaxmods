@@ -35,5 +35,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "1/7/2026, 05.18.06"
+  },
+  {
+    "id": 7810528169,
+    "first_name": "grace",
+    "username": "trykillban",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "1/7/2026, 06.33.00"
   }
 ]
