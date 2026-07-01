@@ -14,5 +14,21 @@
     "referred_by": null,
     "managed_by": 8570430995,
     "date": "1/7/2026, 02.52.00"
+  },
+  {
+    "id": 7340489070,
+    "first_name": "oke baiq",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "1/7/2026, 05.18.06"
   }
 ]
