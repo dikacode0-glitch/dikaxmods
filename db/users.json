@@ -200,5 +200,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "2/7/2026, 11.10.33"
+  },
+  {
+    "id": 8704394150,
+    "first_name": "casier",
+    "username": "iniguah",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "2/7/2026, 14.29.26"
   }
 ]
