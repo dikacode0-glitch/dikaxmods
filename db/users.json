@@ -280,5 +280,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "3/7/2026, 12.15.33"
+  },
+  {
+    "id": 5383032022,
+    "first_name": "rafz",
+    "username": "ɴ/ᴀ",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "24/7/2026, 15.09.27"
   }
 ]
