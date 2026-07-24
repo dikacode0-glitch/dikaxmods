@@ -299,5 +299,21 @@
     "referred_by": null,
     "managed_by": null,
     "date": "24/7/2026, 15.09.27"
+  },
+  {
+    "id": 7285320130,
+    "first_name": "DarkStore",
+    "username": "DarkStorem",
+    "is_vip": false,
+    "vip_type": null,
+    "role": "user",
+    "password": null,
+    "currentSession": null,
+    "last_request_time": 0,
+    "video_history": [],
+    "referrals": [],
+    "referred_by": null,
+    "managed_by": null,
+    "date": "24/7/2026, 17.32.20"
   }
 ]
