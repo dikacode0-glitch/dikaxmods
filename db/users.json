@@ -363,8 +363,10 @@
     "role": "user",
     "password": null,
     "currentSession": null,
-    "last_request_time": 0,
-    "video_history": [],
+    "last_request_time": 1785570310706,
+    "video_history": [
+      "DIKA_246.mp4"
+    ],
     "referrals": [],
     "referred_by": null,
     "managed_by": null,
